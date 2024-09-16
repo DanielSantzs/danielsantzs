@@ -1,16 +1,13 @@
-## Hi there 👋
+# Daniel Shavershian
 
-<!--
-**DanSchutz/danschutz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my profile!
 
-Here are some ideas to get you started:
+## Contact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Email**: [Daniel email](mailto:DanielShavershian@proton.me)
+- **Discord**: [Daniel discord](https://discord.com/users/1245486837540323468)
+- **GitHub**: [Daniel github](https://github.com/DanSchutz)
+- **instagram**: [Daniel instagram](https://www.instagram.com/DanSchutz_)
+  
+
+Thanks for visiting!
